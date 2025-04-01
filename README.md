@@ -22,20 +22,20 @@ Tengo dominio de Python, HTML, CSS y JavaScript. Priorizo las necesidades y pref
 - ⚡ **Dato curioso:** Creo en el aprendizaje autónomo, mis capacidades y mis valores bien fundamentados. Me gusta aprender algo nuevo cada día.
 
 ## Conéctate conmigo
-[![CodePen](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg)](https://codepen.io/steven-lara)
-[![LinkedIn](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg)](https://linkedin.com/in/steven-lara1986)
+[CodePen](https://codepen.io/steven-lara)  
+[LinkedIn](https://linkedin.com/in/steven-lara1986)
 
 ## Lenguajes y herramientas
-![HTML5](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg)
-![CSS3](https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg)
-![JavaScript](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg)
-![PHP](https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg)
-![Java](https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg)
-![Python](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg)
-![MySQL](https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg)
-![Git](https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg)
+- HTML
+- CSS
+- JavaScript
+- PHP
+- Java
+- Python
+- MySQL
+- Git
 
 ## Estadísticas
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=stevvenl&show_icons=true&locale=es&layout=compact)
+![Top Lenguajes](https://github-readme-stats.vercel.app/api/top-langs?username=stevvenl&show_icons=true&locale=es&layout=compact)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=stevvenl&)
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=stevvenl&)
