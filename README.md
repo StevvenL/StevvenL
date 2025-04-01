@@ -22,20 +22,13 @@ Tengo dominio de Python, HTML, CSS y JavaScript. Priorizo las necesidades y pref
 - ⚡ **Dato curioso:** Creo en el aprendizaje autónomo, mis capacidades y mis valores bien fundamentados. Me gusta aprender algo nuevo cada día.
 
 ## Conéctate conmigo
-[CodePen](https://codepen.io/steven-lara)  
-[LinkedIn](https://linkedin.com/in/steven-lara1986)
+[<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" width="20">](https://codepen.io/steven-lara)
+[<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="20">](https://linkedin.com/in/steven-lara1986)
 
 ## Lenguajes y herramientas
-- HTML
-- CSS
-- JavaScript
-- PHP
-- Java
-- Python
-- MySQL
-- Git
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="50"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="50"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="50"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="50"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="50"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="50">
 
 ## Estadísticas
-![Top Lenguajes](https://github-readme-stats.vercel.app/api/top-langs?username=stevvenl&show_icons=true&locale=es&layout=compact)
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=stevvenl&show_icons=true&locale=es&layout=compact" width="50%">
 
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=stevvenl&)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=stevvenl&" width="50%">
