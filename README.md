@@ -1,34 +1,41 @@
-<h1 align="center">Hola 👋, mi nombre es Steven Lara</h1>
-<h3 align="center">Me apaciona la tegnologia y el desarrollo de software.Tengo dominio de Python, HTML, CSS y JavaScript. Priorizo ​​las necesidades y preferencias de los usuarios, realiza investigaciones para comprender sus comportamientos y preferencias. Me gusta cada día aprender más. Cuando me gusta algo me empeño mucho en conseguirlo, por eso me pongo metas a largo y corto plazo.</h3>
+# Hola 👋, mi nombre es Steven Lara
 
-- 🔭 actualmente estoy trabajando en proyectos de desarrollos en php con una empresa llamada [ACATAS SAS](https://acatas.com/)
+## Me apasiona la tecnología y el desarrollo de software
+Tengo dominio de Python, HTML, CSS y JavaScript. Priorizo las necesidades y preferencias de los usuarios, realizo investigaciones para comprender sus comportamientos y preferencias. Me gusta aprender cada día más. Cuando me interesa algo, me esfuerzo mucho por conseguirlo, por eso me pongo metas a largo y corto plazo.
 
-- 🌱 Actualmente estoy aprendiendo **idiomas de programación java, php y phyton**
+- 🔭 Actualmente estoy trabajando en proyectos de desarrollo en PHP con una empresa llamada [ACATAS SAS](https://acatas.com/)
+
+- 🌱 Actualmente estoy aprendiendo **Java, PHP y Python**
 
 - 👯 Estoy buscando colaborar en **proyectos de desarrollo web**
 
-- 🤝 Estoy buscando ayuda con **proyestos web en front o el back**
+- 🤝 Estoy buscando ayuda con **proyectos web en frontend o backend**
 
-- 👨‍💻 Todos mis proyectos están disponibles en: [https://github.com/StevvenL](https://github.com/StevvenL)
+- 👨‍💻 Todos mis proyectos están disponibles en: [GitHub - StevvenL](https://github.com/StevvenL)
 
-- 💬 Pregúntame sobre: **HTML,CSS, JAVASCRIP, GIT, MYSQL.**
+- 💬 Pregúntame sobre: **HTML, CSS, JavaScript, Git, MySQL**
 
-- 📫 como llegar a mi: [laracsj9@gmail.com],   (https://wa.me/3012209960)
+- 📫 Cómo contactarme: [laracsj9@gmail.com](mailto:laracsj9@gmail.com) | [WhatsApp](https://wa.me/3012209960)
 
-- 📄 Conoce mis experiencias [https://stevenlara.netlify.app/](https://stevenlara.netlify.app/)
+- 📄 Conoce mis experiencias en: [Mi Portafolio](https://stevenlara.netlify.app/)
 
-- ⚡ Dato curioso: **creo en el aprendizaje autónomo, mis capacidades, son mis valores muy bien fundamentados, me gusta aprender cada día algo nuevo.**
+- ⚡ **Dato curioso:** Creo en el aprendizaje autónomo, mis capacidades y mis valores bien fundamentados. Me gusta aprender algo nuevo cada día.
 
-<h3 align="left">Conéctate conmigo:</h3>
-<p align="left">
-<a href="https://codepen.io/@ steven-lara-" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="@ steven-lara-" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/linkedin.com/in/steven-lara1986" target="en blanco"><img Lenguajes
-y herramientas
-:
+## Conéctate conmigo
+[![CodePen](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg)](https://codepen.io/steven-lara)
+[![LinkedIn](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg)](https://linkedin.com/in/steven-lara1986)
 
+## Lenguajes y herramientas
+![HTML5](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg)
+![CSS3](https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg)
+![JavaScript](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg)
+![PHP](https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg)
+![Java](https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg)
+![Python](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg)
+![MySQL](https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg)
+![Git](https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg)
 
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="10" height="10"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="10" height="10"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" ancho="10" alto="10"/> </a> <a href="https://www.figma.com/" objetivo="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" ancho="10" alto="10"/> </a> <a href="https://git-scm.com/" objetivo="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" ancho="10" alto="10"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="10" height="10"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="10" height="10"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" ancho="10" alto="10"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.SVG" alt="Laravel" ancho="10" alto="10"/> </a> <a href="https://www.linux.org/" objetivo="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" ancho="10" alto="10"/> </a> <a href="https://mariadb.org/" objetivo="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" ancho="10" alto="10"/> </a> <a href="https://www.mongodb.com/" objetivo="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" ancho="10" alto="10"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" destino="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" ancho="10" alto="10"/> </a> <a href="https://www.mysql.com/" destino="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" ancho="10" alto="10"/> </a> <a href="https://nodejs.org" destino="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" ancho="10" alto="10"/> </a> <a href="https://www.php.net" destino="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" ancho="10" alto="10"/> </a> <a href="https://www.postgresql.org" destino="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" ancho="10" alto="10"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.SVG" alt="posman" ancho="10" alto="10"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" ancho="10" alto="10"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" ancho="10" alto="10"/> </a> </p>
+## Estadísticas
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=stevvenl&show_icons=true&locale=es&layout=compact)
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=stevvenl&show_icons=true&locale=es&layout=compact" alt="stevvenl" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=stevvenl&" alt="stevvenl" /></p>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=stevvenl&)
