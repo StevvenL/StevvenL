@@ -13,13 +13,13 @@
 
 - 💬 Pregúntame sobre: **HTML,CSS, JAVASCRIP, GIT, MYSQL.**
 
-- 📫 como llegar a mi: [**laracsj9@gmail.com**],  [ **https://wa.me/3012209960**]
+- 📫 como llegar a mi: [laracsj9@gmail.com],   (https://wa.me/3012209960)
 
 - 📄 Conoce mis experiencias [https://stevenlara.netlify.app/](https://stevenlara.netlify.app/)
 
 - ⚡ Dato curioso: **creo en el aprendizaje autónomo, mis capacidades, son mis valores muy bien fundamentados, me gusta aprender cada día algo nuevo.**
 
-<h3 align="left">Conéctate conmigo:[**https://wa.me/3012209960**]</h3>
+<h3 align="left">Conéctate conmigo:</h3>
 <p align="left">
 <a href="https://codepen.io/@ steven-lara-" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="@ steven-lara-" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/linkedin.com/in/steven-lara1986" target="en blanco"><img Lenguajes
