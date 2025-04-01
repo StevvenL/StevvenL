@@ -1,7 +1,7 @@
 <h1 align="center">Hola 👋, mi nombre es Steven Lara</h1>
 <h3 align="center">Me apaciona la tegnologia y el desarrollo de software.Tengo dominio de Python, HTML, CSS y JavaScript. Priorizo ​​las necesidades y preferencias de los usuarios, realiza investigaciones para comprender sus comportamientos y preferencias. Me gusta cada día aprender más. Cuando me gusta algo me empeño mucho en conseguirlo, por eso me pongo metas a largo y corto plazo.</h3>
 
-- 🔭 actualmente estoy trabajando [en proyectos de desarrollos en php con una empresa llamada ACATAS SAS](https://acatas.com/)
+- 🔭 actualmente estoy trabajando en proyectos de desarrollos en php con una empresa llamada [ACATAS SAS](https://acatas.com/)
 
 - 🌱 Actualmente estoy aprendiendo **idiomas de programación java, php y phyton**
 
